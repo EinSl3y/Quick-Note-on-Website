@@ -15,6 +15,7 @@ Perfect for quick thoughts, annotations, or reminders — all saved persistently
 - ✅ **Undo support** (like `Ctrl + Z`).
 - ✅ **Delete mode**: quickly delete notes with a single click.
 - ✅ **Toggle all notes** visibility instantly.
+- ✅ **Resize notes** by dragging from the bottom-right corner.
 
 ---
 
