@@ -54,7 +54,7 @@ Perfect for quick thoughts, annotations, or reminders — all saved persistently
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) extension in your browser.
-2. Create a new script and paste the [script code](./script.js) inside.
+2. Create a new script and paste the `script code` inside.
 3. Save the script and reload your target website.
 4. Start using shortcuts to add notes instantly!
 
